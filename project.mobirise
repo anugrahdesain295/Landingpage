@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Anugrahcollection",
-    "currentPage": "index.html",
+    "currentPage": "Anugrahdesain.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -55,14 +55,15 @@
     "gdpr": false
   },
   "pages": {
-    "index.html": {
+    "Anugrahdesain.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Anugrahdesain",
+        "meta_descr": "Terima jasa desain online olshop,logo olshop,logo produk,banner,brosur,kartu nama,nota olshop, pricelist harga, label nama,label pengiriman,dll\nminat hub: wa 082252881718",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/sampul%20fb%20anugrahcollection-801x539.jpeg"
       },
       "components": [
         {
